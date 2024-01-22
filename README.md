@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ho Tan Anh</h1>
 <h3 align="center">A developer from UIT University</h3>
 
-- 🌱 I’m currently learning **AngularJs,Ngrx/Store,Spring Boot,Docker**
+- 🌱 I’m currently learning **AngularJs,Ngrx/Store,Spring Boot,Docker,AWS,AZURE**
 
 - 📫 How to reach me **anh152k3@gmail.com**
 
